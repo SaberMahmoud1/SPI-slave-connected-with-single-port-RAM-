@@ -1,0 +1,74 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dD:/Courses/Digial_Design_Course/Projects/Project2/Project_code/SPI_SLAVE
+T_opt
+!s110 1692640871
+VO7JYBn?lLAjlN13cGd9jR1
+04 10 4 work spi_ram_tb fast 0
+=1-f80dac395f35-64e3a667-274-5d0c
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+OL;O;2021.1;73
+R1
+vspi_ram
+Z3 !s110 1692641028
+!i10b 1
+!s100 b[j9flo45^PiQT6Tm1c;83
+IBRF;aKm:QL<DO8zQkn29D0
+Z4 dD:/Courses/Digial_Design_Course/Projects/Project2/Project_code/SINGLE_PORT_SYNCH_RAM
+w1692640676
+8SPI_RAM.v
+FSPI_RAM.v
+!i122 10
+L0 1 58
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z7 !s108 1692641028.000000
+!s107 SPI_RAM_TB.v|SPI_RAM.v|
+Z8 !s90 -reportprogress|300|SPI_RAM.v|SPI_RAM_TB.v|
+!i113 0
+Z9 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vspi_ram_tb
+R3
+!i10b 1
+!s100 a3zYZ9>_O;PJ;2M2bBdBG1
+IhTI7FOINofF8MDR:]AUZ_1
+R4
+w1692640464
+8SPI_RAM_TB.v
+FSPI_RAM_TB.v
+!i122 10
+L0 1 80
+R5
+R6
+r1
+!s85 0
+31
+R7
+Z10 !s107 SPI_RAM_TB.v|SPI_RAM.v|
+R8
+!i113 0
+R9
+R2
