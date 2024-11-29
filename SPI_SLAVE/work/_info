@@ -1,0 +1,151 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dD:/Courses/Digial_Design_Course/Assignments/Projects/Week7
+T_opt
+!s110 1692549498
+Vj;i?W^id;T5gK7WWA<FPc1
+04 9 4 work spi_slave fast 0
+=1-f80dac395f35-64e2417a-28f-671c
+Z2 !s124 OEM100
+Z3 o-quiet -auto_acc_if_foreign -work work +acc
+Z4 tCvgOpt 0
+n@_opt
+Z5 OL;O;2021.1;73
+R1
+T_opt1
+!s110 1692627206
+VXX=K?En_ghJ^hl>45PAcQ2
+04 6 4 work spi_tb fast 0
+=1-f80dac395f35-64e37106-1b9-6510
+R2
+R3
+R4
+n@_opt1
+R5
+R1
+T_opt2
+!s110 1692645050
+V;mPeE]^gMc?N4RnYVN@f42
+04 12 4 work SPI_slave_tb fast 0
+=1-f80dac395f35-64e3b6b9-38f-e9a8
+R2
+R3
+R4
+n@_opt2
+R5
+vSPI_slave
+Z6 !s110 1692645028
+!i10b 1
+!s100 Ghi:Zjl3ZLo>6fAJdP_=20
+IEaOUe?O;QHhOd2:7;V6CY2
+Z7 dD:/Courses/Digial_Design_Course/Projects/Project2/Project_code/SPI_SLAVE
+w1692644887
+8SPI_slave.v
+FSPI_slave.v
+!i122 29
+L0 1 133
+Z8 VDg1SIo80bB@j0V0VzS_@n1
+Z9 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z10 !s108 1692645028.000000
+Z11 !s107 SPI_slave_tb.v|SPI_slave.v|
+Z12 !s90 -reportprogress|300|SPI_slave.v|SPI_slave_tb.v|
+!i113 0
+Z13 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R4
+n@s@p@i_slave
+vspi_slave
+Z14 !s110 1692627205
+!i10b 1
+!s100 9TgQ5Ao6WA05oI;>0lRZ71
+Izo^nLaBPVodkDN=_zDCAc3
+R7
+w1692627139
+8spi_slave.v
+Fspi_slave.v
+!i122 21
+L0 1 134
+R8
+R9
+r1
+!s85 0
+31
+Z15 !s108 1692627205.000000
+Z16 !s107 SPI_SLAVE_TB.v|spi_slave.v|
+Z17 !s90 -reportprogress|300|spi_slave.v|SPI_SLAVE_TB.v|
+!i113 0
+R13
+R4
+vSPI_slave_tb
+R6
+!i10b 1
+!s100 AlUiH_DBDW6[XYlLO7P_X0
+IUUjSZ?CVViP;?o9G392Ki0
+R7
+w1692644197
+8SPI_slave_tb.v
+FSPI_slave_tb.v
+!i122 29
+Z18 L0 1 100
+R8
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 0
+R13
+R4
+n@s@p@i_slave_tb
+vspi_tb
+R14
+!i10b 1
+!s100 ZX0]N72k0cVgT:4gK20Z<2
+IQoIEL;WBj=S4leeNZga5I3
+R7
+w1692622880
+8SPI_SLAVE_TB.v
+FSPI_SLAVE_TB.v
+!i122 21
+R18
+R8
+R9
+r1
+!s85 0
+31
+R15
+R16
+R17
+!i113 0
+R13
+R4
